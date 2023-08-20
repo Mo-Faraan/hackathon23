@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "StressLess",
+    "description": "display stress details",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/16.png",
+        "48": "/images/48.png",
+        "128": "/images/128.png"
+    },
+    "page-action": {
+        "default_icon": {
+            "16": "/images/162.png",
+            "48": "/images/482.png",
+            "128": "/images/1282.png"
+        }
+    }
+}
